@@ -1,0 +1,12 @@
+[package]
+name = "slang-playground"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+semver = "1.0.17"
+serde = "1.0.166"
+serde_json = "1.0.100"
+slang_solidity = "0.6.0"
